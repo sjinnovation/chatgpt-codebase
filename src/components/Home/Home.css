@@ -1,0 +1,11 @@
+.rt-home .form-label {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+@media (max-width: 500px) {
+  label {
+    font-size: 14px;
+    color: black;
+  }
+}

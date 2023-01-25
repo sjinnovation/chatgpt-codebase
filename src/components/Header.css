@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #EFF5ED;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    color: #333;
+    padding: 20px;
+    font-size: 24px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  
+  .logo {
+    width: 150px;
+    margin-left: 10px;
+  }
