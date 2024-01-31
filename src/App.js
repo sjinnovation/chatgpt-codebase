@@ -4,6 +4,7 @@ import { RouterProvider } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Toaster } from 'react-hot-toast';
 
+//basic md
 function App() {
   return (
     <div>
